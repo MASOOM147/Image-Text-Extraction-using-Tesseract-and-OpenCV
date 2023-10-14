@@ -1,0 +1,1 @@
+# Image-Text-Extraction-using-Tesseract-and-OpenCV
